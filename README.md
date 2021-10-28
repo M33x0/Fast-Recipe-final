@@ -24,11 +24,12 @@
 ```sh
 npm install
 ```
-
+Install all the necessary package
 ## Usage
 ```sh
 npm start
 ```
+Start a development server
 
 ## User Stories
 -	User can search for recipe
