@@ -44,7 +44,7 @@ npm start``` to start a development server
 
 
 # Galleries
-<img src="sreen.png"/>
+<img src="screen.png"/>
 
 # License
 
