@@ -1,44 +1,59 @@
-<h3>Demo:https://fastrecipe-reactjs.web.app/</h3>
+# <p align="center"> Fast Recipe </p>
 
-<h1 align="center">
-  <img alt="Frecipe" src="./screen.png" width="500px" style="border-radius:8px;"/>
-</h1>
+## Table of Content
 
-<h3 align="center">
-  A web app to search for recipe using Edamam API
-</h3>
+- [Introduction](#introduction)
+- [Environment](#environment)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Galleries](#Galleries)
+- [Authors](#authors)
+- [License](#license)
 
-## :computer: Languages
+# Introduction
 
-- **Javascript**
+Fast Recipe is a user friendly web application that allow users to search for cooking or cockails recipe
 
-## :books: Technologies
-- **React**
-- **Material UI**
-- **Favicon**
-- **Styled Components**
-- **Axios**
-- **Firebase**
+This project was created by:
 
-## Installation
-```sh
-npm install
+- [Michael Mbea](https://www.linkedin.com/in/michael-mbea-8032a0103/)
+
+
+# Usage
+Use Web app to search for recipe
+
+# Environment
+
+This project is interpreted/tested on Kubuntu 20.04 LTS using React(Version 17.0.2), Axios(Version 0.21.1, styled-components(Version 5.3.0"), Material UI(Version 4.11.4)
+
+# Installation
+
+### Requirements:
+
+  -Nodejs 16.13.0 LTS
+  -Npm or Npx
+
+-Clone this repository on your Pc
+-Open your terminal and run
 ```
-Install all the necessary package
-## Usage
-```sh
-npm start
+sh
+npm insall``` to install the package
 ```
-Start a development server
+sh
+npm start``` to start a development server
 
-## User Stories
--	User can search for recipe
--	User can see list of recipe titles
--	User can click a recipe to display a recipe card containing the 
-ingredients
--	User can click a recipe to see the full recipe
 
-## Author
-👤 **Mike Mbea**
+# Galleries
+<img src="sreen.png"/>
 
-* Github: [@M33x0](https://github.com/M33x0)
+# License
+
+Free To use
+[MIT]
+
+This project was made as an End Of Year Project at Holberton School
+
+
+<p align="center"><img src="https://www.holbertonschool.com/holberton-logo.png"></p>
+
+  
