@@ -44,8 +44,8 @@ to install the package
 ```
 sh
 npm start
-to start a development server
 ```
+to start a development server
 
 
 # Galleries
