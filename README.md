@@ -37,13 +37,13 @@ This project is interpreted/tested on Kubuntu 20.04 LTS using React(Version 17.0
 -Open your terminal and run
 ```
 sh
-npm insall``` 
+npm insall 
 ```
 to install the package
 
 ```
 sh
-npm start``` 
+npm start
 to start a development server
 ```
 
